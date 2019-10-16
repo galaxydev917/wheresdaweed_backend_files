@@ -1,0 +1,113 @@
+body {
+    background-color: #e9eaeb;
+}
+
+th {
+    background-color:#FFFFFF;
+}
+
+.border-box {
+    border-color: #6c99d1;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.login-box {
+    margin: auto;
+    margin-top: 15px;
+    padding-top: 10px;
+    border-radius: 2px;
+}
+
+.logo-container {
+    margin: auto;
+}
+
+.btn-common {
+    width: 100%;
+    background-color: #6c99d1;
+}
+
+.error-msg {
+    color: #FF0000;
+}
+
+.top-bar-container {
+    background-color :#9cc7fc;
+    height: 60px;
+}
+
+.top-bar-logo-container {
+    width: 60px;
+    margin-left: 15px;
+}
+
+.top-menu-container {
+    background-color:#FFFFFF;
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 18px;
+}
+
+.top-menu-container a {
+    color: #6c99d1;
+    font-weight: bold;
+}
+
+.btn-save {
+    width: 100%;
+}
+
+.action-heading {
+    font-size: 24px;
+    color: #254772;
+}
+
+.action-box {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.dcm_footer {
+    clear: both;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#pages {
+    margin: 10px 10px 10px 10px;
+}
+
+.pageNumber {
+    float:left;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color:#0000FF;
+    background-color:#989898;
+}
+
+.dashboard {
+    padding:25px;
+}
+
+.dashboard-item {
+    padding:15px;
+    text-align: center;
+    border-color:#9A9A9A;
+    border-style: solid;
+    border-width: 1px;
+    margin-right: 20px;
+    float:left;
+}
+
+.dashboard-item-title{
+    font-weight: bold;
+    color:#6c99d1;
+    font-size: 16px;
+}
+
+.dashboard-item-value{
+    color:#6c99d1;
+    font-size: 16px;
+}
